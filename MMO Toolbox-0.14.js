@@ -5,14 +5,14 @@
 // @version      0.14
 // @description  对 CCW 作品运行时的 MMO 消息与云数据进行查看、拦截与编辑
 // @description:zh-CN  对 CCW 作品运行时的 MMO 消息与云数据进行查看、拦截与编辑
-// @author       Маскировка
+// @author       Маскировка\Garl404
 // @license      MIT
 // @match        *://*.ccw.site/*
 // @match        *://*.getgandi.com/*
 // @grant        none
 // @run-at       document-start
-// @homepageURL  <>
-// @supportURL   <>
+// @homepageURL  https://github.com/Garl404/MMO-Tool
+// @supportURL   https://github.com/Garl404/MMO-Tool/issues
 // @icon         https://m.ccw.site/community/images/logo-ccw.png
 // ==/UserScript==
 
